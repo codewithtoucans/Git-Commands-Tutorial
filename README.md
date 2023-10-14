@@ -1,4 +1,4 @@
-# Git Commands Tutorial
+Git Commands Tutorial
 =======================
 
 ___
