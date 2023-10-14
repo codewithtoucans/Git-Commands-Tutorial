@@ -14,6 +14,7 @@ pratice and enjoy yourself 🥳.
 |  git commit -m '[message]' |提交文件并附带信息                    |
 |  git ls-files            |展示本地仓库中提交的文件              |
 |  git rm [filename]       |将文件从本地仓库中删除                |
+|  git mv [old filename] [new filename] |本地仓库中文件重命名|
 |  git log                 |展示提交历史                          |
 |  git log --oneline       |展示提交历史,提交信息展示在一行       |
 |  git reflog                     | 展示本地仓库历史修改内容|
