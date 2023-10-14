@@ -44,7 +44,7 @@ _Pratice and enjoy yourself 🥳_
 |   git branch -D [branch name]|强制删除一个分支                     |
 |   git branch -a              |展示所有分支                         |
 |   git branch -r              |展示远程分支                         |
-|   git branch -vv             |展示本地跟踪分支和链接远程分支信息   |
+|   git branch -v              |展示本地跟踪分支和链接远程分支信息   |
 |   git checkout [branch name]    | 切换分支                      |
 |   git switch [branch name]      | 切换分支                      |
 |   git checkout -b [branch name] | 创建一个新分支并切换到该分支  |
