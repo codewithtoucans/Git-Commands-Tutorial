@@ -2,11 +2,18 @@ Git Commands Tutorial
 =======================
 
 
-_Pratice and enjoy yourself 🥳_
+_Pratice and enjoy yourself_ 🥳
 
 ___
 
-[toc]
+- [Git Commands Tutorial](#git-commands-tutorial)
+  - [git basic command](#git-basic-command)
+  - [git branch command](#git-branch-command)
+  - [git stash command](#git-stash-command)
+  - [git merge command](#git-merge-command)
+  - [git tag command](#git-tag-command)
+  - [git remote command](#git-remote-command)
+
 
 ## git basic command
 
@@ -106,5 +113,6 @@ ___
 |   git push origin --delete [remote branch name]          | 删除远程仓库分支                                     |
 |   git push --force origin [branch name]                  | 强行推送项目到分支                                   |
 |   git remote set-url origin [url]                        | 修改远程地址                                         |
+|   git branch --set-upstream-to=origin/[branch name] [local branch name] | 本地分支链接远程分支变为本地跟踪分支 |
  
  
