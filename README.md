@@ -1,10 +1,14 @@
-# git commands tutorial
-pratice and enjoy yourself 🥳.
+# Git Commands Tutorial
+=======================
 
-{{TOC}}
+___
+
+_Pratice and enjoy yourself 🥳_
+
 
 ## git basic command
 
+| Command | Description |
 |:--|:--|
 |  git --version | 查看git版本 |
 |  git init                |初始化本地项目库                      |
@@ -32,6 +36,7 @@ pratice and enjoy yourself 🥳.
    
 ## git branch command
 
+| Command | Description |
 |:--|:--|
 |   git branch                 |展示本地分支                         |
 |   git branch [branch name]   |新建一个分支                         |
@@ -48,6 +53,7 @@ pratice and enjoy yourself 🥳.
 
 ## git stash command
 
+| Command | Description |
 |:--|:--|
 |   git stash                     |将未提交文件的所有修改部分暂存起来|
 |   git stash apply               |将暂存的部分还原回文件            |
@@ -61,6 +67,7 @@ pratice and enjoy yourself 🥳.
  
 ## git merge command
 
+| Command | Description |
 |:--|:--|
 |   git merge [branch name]        | 将其他分支合并到当前分支|
 |   git rebase [branch name]       | 变基合并分支            |
@@ -68,6 +75,7 @@ pratice and enjoy yourself 🥳.
 
 ## git tag command
 
+| Command | Description |
 |:--|:--|
 |   git tag                                | 展示标签列表            |
 |   git tag [tag name] [command hash]      | 给某个提交设置tag       |
@@ -78,6 +86,7 @@ pratice and enjoy yourself 🥳.
 
 ## git remote command
 
+| Command | Description |
 |:--|:--|
 |   git remote -v                                          | 展示远程仓库url                                      |
 |   git remote add origin [url]                            | 添加远程仓库地址                                     |
